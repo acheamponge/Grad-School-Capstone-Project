@@ -1,6 +1,6 @@
-streamlit==0.74.1
-Pillow==6.2.1
-xlrd == 2.0.1
+streamlit
+Pillow
+xlrd
 
 
 
